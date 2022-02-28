@@ -18,15 +18,7 @@ half of the screen. Example:
 
 ## Using with OBS
 
-You can attach webpages as sources in OBS livestreams by installing the
-Browsersource plugin. Please, download the plugin for your platform first:
-
-* [CLR Browsersource for OBS for Windows][bswin].
-* [Browser Plugin for OBS Multiplatform][bsobs].
-
-Add the public page as the website to display. Make sure the testcard fills
-the entire screen. Set the URL to the testcard one, change the `banner` param
-if you want; now you are ready to rock.
+Create Browser source and input github pages url
 
 ## License
 
